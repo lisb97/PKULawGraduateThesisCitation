@@ -7,7 +7,7 @@ I used Oxford Art Journal as the template. For the Oxford Art Journal style, see
 
 **What it supports**
 
-The Style at present supports citations to books, journal articles, and webpages. It also supports citations to working papers, for which I exercised discretion on the format as PKU Law School has no specified format for this type of references.
+The Style at present supports citations to books, journal articles, and webpages. It also supports citations to book chapters and working papers, for which I exercised discretion on the formats as PKU Law School has no specified formats for these types of references.
 
 The Style at present supports only footnotes but not Bibliography. Users may consider extracting bibliography entries manually from citation tools like Zotero and copy-paste them into the theses. For how to download and use Zotero, see https://www.zotero.org/.
 
