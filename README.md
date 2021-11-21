@@ -1,5 +1,4 @@
 # PKULawGraduateThesisCitation
-Developing a CSL according to Peking Universtiy Law School's requirements on graduate thesis English citation.
 
 The PKU Graduate Thesis Citation style (hereinafter "the Style") is developed according to the citation style specified by Peking University Law School for English references in graduate thesis. For PKU Law School's citation requirements, see https://www.law.pku.edu.cn/jx/byyxw/wjgdbyyxw/30542.htm.
 
