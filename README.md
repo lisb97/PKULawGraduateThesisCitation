@@ -19,7 +19,9 @@ The Style can be used in MS Word via Zotero plugins. For how to download Zotero,
 
 **Disclaimer**
 
-The Style is developed solely for non-commercial use. It is subject to and welcomes changes from other contributors.
+The Style is developed for non-commercial and educational purposes. Users may use the Style only, and solely for their own personal, non-commercial use. The Style is subject to, and welcomes, changes from other contributors, provided that the changes do not cause change to the nature of the Style as an non-commercial, personal-use-only tool.
+
+I shall not be legally responsible for the acts or omissions of any users and/or contributors, and shall also not be subject to any legal process, and/or shall bear no liabilities of any kind, be they financial or otherwise.
 
 **Contact me**
 
